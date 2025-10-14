@@ -1,6 +1,6 @@
 # 📊 Excel-like Table Component
 
-一个功能强大的类 Excel 表格组件，基于 Vue 3 开发，提供丰富的数据编辑、可视化和管理功能。
+一个功能强大的类 Excel 表格组件（仿钉钉的AI表格），基于 Vue 3 开发，提供丰富的数据编辑、可视化和管理功能。
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Vue](https://img.shields.io/badge/vue-3.x-brightgreen.svg)
