@@ -453,7 +453,3 @@ npm run build
 
 [MIT License](LICENSE)
 
----
-
-**Made with ❤️ by Your Team**
-
