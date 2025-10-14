@@ -5,6 +5,14 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Vue](https://img.shields.io/badge/vue-3.x-brightgreen.svg)
 
+## 📸 预览图
+
+### 主界面 - 完整功能展示
+![主界面预览](./public/1.png)
+
+### 编辑界面 - 多种列类型和条件格式
+![编辑界面预览](./public/2.png)
+
 ## ✨ 核心特性
 
 ### 📝 多种列类型支持
